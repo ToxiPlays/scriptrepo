@@ -7,7 +7,7 @@
 Information: ↓
 Title: RewindScript.Lua
 Source: https://www.roblox.com/library/4563096422/cory-rewind-script
-Source #2: <github link>
+Source #2: https://github.com/ToxiPlays/scriptrepo/blob/master/RewindScript.lua
 --]]
 
 --init
